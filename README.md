@@ -1,7 +1,8 @@
 # Carryly
-This repository contains all my CAD data as well as documentation content from my ... project. 
-Caryly is a handy tool that you can attach to ... Its shape allows the user to .... The .. is therefore mainly transferred through the ... of the ... person instead of the .... That makes ... easier. 
+Carryly is a handy tool that you can attach to your belt. 
+Its shape allows the user to carry heavy objects such as boxes. 
+The weight of the object is mainly transferred through the belt of the person into his or her hips and legs and not into the persons arms. 
+That makes carrying heavy objects a lot easier. 
 
-
-Currently, the tool is in a pending patent application state which is why I am not ready to speak about it.
-The Patent Code is: 10 2022 04 476.5
+You can find the Offenlegungsschrift in this Repo.
+The Patent Code is: DE 10 2022 004 476 A1
